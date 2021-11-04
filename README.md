@@ -6,11 +6,11 @@
 
 </div>
 
-## About
+## About:
 
 Kuberm8 is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Getting Started
+## Getting Started:
 
 ### Installation
 
@@ -28,7 +28,7 @@ Kuberm8 is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
 
 
 
-## Built With
+## Built With:
 
 - [React](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
@@ -47,7 +47,7 @@ Kuberm8 is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
 - Dustin Jones - [Github](https://github.com/dtjones404) | [Linkedin](https://www.linkedin.com/in/dustin-jones-404/)
 - Kyo Ku - [Github](https://github.com/kk7259951) | [Linkedin](https://www.linkedin.com/in/fillthisinlater/)
 
-## License
+## License:
 
 This product is licensed under the [GNU General Public License v3.0](License.md).‌
 
