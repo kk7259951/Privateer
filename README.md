@@ -7,8 +7,10 @@
   <p>Light-weight prototyping and monitoring tool for Kubernetes.</p>
   
   <a href=license.md><img src="https://img.shields.io/github/license/oslabs-beta/kuberm8?style=plastic"/></a>
+  <img src="https://img.shields.io/github/package-json/v/oslabs-beta/Kuberm8?style=plastic" />
   
-  <a href="/issues"><img src="https://img.shields.io/github/issues/oslabs-beta/Kuberm8"></a>
+  <img src="https://img.shields.io/github/last-commit/oslabs-beta/Kuberm8?style=plastic" />
+  <a href="/issues"><img src="https://img.shields.io/github/issues/oslabs-beta/Kuberm8?style=plastic"></a>
 
 </div>
 
