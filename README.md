@@ -5,6 +5,10 @@
   <h1>Kuber-M8</h1>
 
   <p>Light-weight prototyping and monitoring tool for Kubernetes.</p>
+  
+  <a href=license.md><img src="https://img.shields.io/github/license/oslabs-beta/kuberm8?style=plastic"/></a>
+  
+  <a href="/issues"><img src="https://img.shields.io/github/issues/oslabs-beta/Kuberm8"></a>
 
 </div>
 
