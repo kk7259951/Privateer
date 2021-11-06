@@ -2,21 +2,21 @@
   
   ![teamLogo](https://user-images.githubusercontent.com/69579929/140405057-9fa3c43f-303e-4714-89dc-a4f35efa2b68.png)
 
-  <h1>Kuber-M8</h1>
+  <h1>Privateer</h1>
 
   <p>Light-weight prototyping and monitoring tool for Kubernetes.</p>
   
-  <a href=license.md><img src="https://img.shields.io/github/license/oslabs-beta/kuberm8?style=plastic"/></a>
-  <img src="https://img.shields.io/github/package-json/v/oslabs-beta/Kuberm8?style=plastic" />
+  <a href=license.md><img src="https://img.shields.io/github/license/oslabs-beta/Privateer?style=plastic"/></a>
+  <img src="https://img.shields.io/github/package-json/v/oslabs-beta/Privateer?style=plastic" />
   
-  <img src="https://img.shields.io/github/last-commit/oslabs-beta/Kuberm8?style=plastic" />
-  <a href="/issues"><img src="https://img.shields.io/github/issues/oslabs-beta/Kuberm8?style=plastic"></a>
+  <img src="https://img.shields.io/github/last-commit/oslabs-beta/Privateer?style=plastic" />
+  <a href="/issues"><img src="https://img.shields.io/github/issues/oslabs-beta/Privateer?style=plastic"></a>
 
 </div>
 
 ## About:
 
-Kuberm8 is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Privateer is lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div align="center">
 
